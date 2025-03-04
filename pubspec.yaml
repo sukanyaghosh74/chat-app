@@ -1,0 +1,13 @@
+name: developer_chat_app
+description: A chat app for developers with real-time messaging and code syntax highlighting.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.5.0
+  firebase_auth: ^4.0.0
+  cloud_firestore: ^4.0.0
+  syntax_highlighter: ^0.1.0
+
+flutter:
+  uses-material-design: true

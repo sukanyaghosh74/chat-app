@@ -1,0 +1,13 @@
+packages:
+  firebase_core:
+    version: "2.5.0"
+    source: hosted
+  firebase_auth:
+    version: "4.0.0"
+    source: hosted
+  cloud_firestore:
+    version: "4.0.0"
+    source: hosted
+  syntax_highlighter:
+    version: "0.1.0"
+    source: hosted
